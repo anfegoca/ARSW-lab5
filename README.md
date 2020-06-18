@@ -10,6 +10,7 @@ Para hacer uso del proyecto solo debe clonar el repositorio o descargarlo direct
 
 ```bash
 mvnw spring-boot:run
+```
 
 O puede jugar directamente desde la siguiente dirección:
 
@@ -89,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Design
 
-![class](https://github.com/anfegoca/ARSW-lab5/blob/master/resources/7.png)
+![class](https://github.com/anfegoca/ARSW-lab5/blob/master/resources/8.png)
 
 Para elaborar la aplicación solo se usó la clase **Game** la cual tiene los metodos de **play** y **restart** además de los demás métodos necesarios para recibir las peticiones del navegador.
 
