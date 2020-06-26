@@ -14,7 +14,7 @@ mvnw spring-boot:run
 
 O puede jugar directamente desde la siguiente dirección:
 
-https://powerful-anchorage-32349.herokuapp.com/
+https://stark-ridge-45751.herokuapp.com/
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ Para usar el proyecto decargamos directamente el proyecto o lo clonamos de la si
 En la consola nos vamos al directorio donde vamos a clonar el repositorio y ponemos el siguiente comando:
 
 ```bash
-git clone https://github.com/anfegoca/ARSW-lab5.git
+git clone https://github.com/anfegoca/ARSW-lab6.git
 
 ```
 ![clone](https://github.com/anfegoca/ARSW-lab5/blob/master/resources/1.png)
